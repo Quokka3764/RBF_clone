@@ -1,0 +1,8 @@
+.container-nav {
+  @apply relative 
+  flex 
+  justify-center
+  items-center
+  h-20 
+  w-screen;
+}
